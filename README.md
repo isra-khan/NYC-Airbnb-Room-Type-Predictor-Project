@@ -4,6 +4,9 @@ This project is a small website that predicts the type of an Airbnb listing in N
 
 > This project predicts room type. It does not predict the nightly price.
 
+<img width="1440" height="673" alt="image" src="https://github.com/user-attachments/assets/5688b8c8-4a72-4dbe-91be-7b8c3d30abf4" />
+
+
 ## What you need
 
 - Python 3.12
@@ -83,3 +86,5 @@ To stop either server, press **Ctrl+C** in its terminal.
 - `index.html`, `style.css`, `script.js` — the website
 - `nyc_airbnb_room_type_classification.ipynb` — the model exploration notebook
 - `requirements.txt` — the Python packages needed by the app
+
+  
